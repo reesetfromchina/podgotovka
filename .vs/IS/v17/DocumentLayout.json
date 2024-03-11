@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blastin\\source\\repos\\IS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C685AA1-B01C-4D74-8148-9083D7F35445}|Concert.Service\\Concert.Service.csproj|c:\\users\\blastin\\source\\repos\\is\\concert.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C685AA1-B01C-4D74-8148-9083D7F35445}|Concert.Service\\Concert.Service.csproj|solutionrelative:concert.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4DE81C-D714-493B-A873-3F78F9058EC6}|Concert.Repository\\Concert.Repository.csproj|c:\\users\\blastin\\source\\repos\\is\\concert.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4DE81C-D714-493B-A873-3F78F9058EC6}|Concert.Repository\\Concert.Repository.csproj|solutionrelative:concert.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4599FD-881F-46AC-92C5-4066BAF84B8D}|Concert.Domain\\Concert.Domain.csproj|c:\\users\\blastin\\source\\repos\\is\\concert.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4599FD-881F-46AC-92C5-4066BAF84B8D}|Concert.Domain\\Concert.Domain.csproj|solutionrelative:concert.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\models\\concertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\models\\concertmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311225718_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Concert\\Data\\Migrations\\20240311225718_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|c:\\users\\blastin\\source\\repos\\is\\concert\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A7E84B-6B4D-4DCD-AC0A-885B43ABF4E6}|Concert\\ConcertLab.csproj|solutionrelative:concert\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224043_asim3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Concert\\Data\\Migrations\\20240311224043_asim3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\appsettings.json",
+              "RelativeDocumentMoniker": "Concert\\appsettings.json",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\appsettings.json",
+              "RelativeToolTip": "Concert\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T23:20:03.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Program.cs",
+              "RelativeDocumentMoniker": "Concert\\Program.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Program.cs",
+              "RelativeToolTip": "Concert\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:17:34.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Concert.Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Service\\Class1.cs",
+              "RelativeToolTip": "Concert.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:14:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Concert.Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Repository\\Class1.cs",
+              "RelativeToolTip": "Concert.Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:14:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Concert.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert.Domain\\Class1.cs",
+              "RelativeToolTip": "Concert.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T23:13:42.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Concert\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Concert\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:59:16.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240311225718_test.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311225718_test.cs",
+              "RelativeDocumentMoniker": "Concert\\Data\\Migrations\\20240311225718_test.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311225718_test.cs",
+              "RelativeToolTip": "Concert\\Data\\Migrations\\20240311225718_test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:57:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Concert\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:41:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240311224436_sekeiskrsam.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs",
+              "RelativeDocumentMoniker": "Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs",
+              "RelativeToolTip": "Concert\\Data\\Migrations\\20240311224436_sekeiskrsam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:44:36.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240311224043_asim3.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224043_asim3.cs",
+              "RelativeDocumentMoniker": "Concert\\Data\\Migrations\\20240311224043_asim3.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Data\\Migrations\\20240311224043_asim3.cs",
+              "RelativeToolTip": "Concert\\Data\\Migrations\\20240311224043_asim3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:40:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConcertModel.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\ConcertModel.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\ConcertModel.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\ConcertModel.cs",
+              "RelativeToolTip": "Concert\\Models\\ConcertModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:37:28.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\AppUser.cs",
+              "RelativeToolTip": "Concert\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:37:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Concert\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\blastin\\source\\repos\\IS\\Concert\\Models\\Ticket.cs",
+              "RelativeToolTip": "Concert\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T22:37:27.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
